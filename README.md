@@ -114,7 +114,7 @@ Projeto desenvolvido para a disciplina de **Engenharia de Software** da **UFT ‚Ä
 | <img src="https://github.com/dudanegreiro.png" width="50px;" style="border-radius:50%"> | **Eduarda Negreiro** | - / - | [@dudanegreiro](https://github.com/dudanegreiro) | [LinkedIn](#) |
 | <img src="https://via.placeholder.com/50" width="50px;" style="border-radius:50%"> | **[Gustavo Leite Bringel]** | - / - | [@GustavoBringel](https://github.com/GustavoBringel) | [LinkedIn](#) |
 | <img src="https://via.placeholder.com/50" width="50px;" style="border-radius:50%"> | **[Igor Anicezio Oliveira]** | - / - | [@IgorAnicezioOliveira](https://github.com/IgorAnicezioOliveira) | [LinkedIn](#) |
-| <img src="https://via.placeholder.com/50" width="50px;" style="border-radius:50%"> | **[Nome do Aluno 4]** | - / - | [@usuario4](https://github.com) | [LinkedIn](#) |
+| <img src="https://via.placeholder.com/50" width="50px;" style="border-radius:50%"> | **[Thalita Teixeira Menezes]** | - / - | [@thalist](https://github.com/thalist) | [LinkedIn](#) |
 | <img src="https://via.placeholder.com/50" width="50px;" style="border-radius:50%"> | **[Nome do Aluno 5]** | - / - | [@usuario5](https://github.com) | [LinkedIn](#) |
 
 - **Docente Respons√°vel:** Prof. [Jackson Gomes de Souza]
