@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤝 Guia de Contribuição — EventFy
 
 Este documento apresenta as convenções e boas práticas que devem ser seguidas pelos integrantes da equipe durante o desenvolvimento do projeto **EventFy**.
@@ -14,7 +13,6 @@ Nenhuma alteração deve ser realizada diretamente na branch `main`.
 Cada nova funcionalidade, correção ou alteração deve ser desenvolvida em uma branch específica.
 
 O padrão para nomear as branches será:
-=======
 
 ```text
 tipo/descricao-da-alteracao
@@ -23,7 +21,6 @@ tipo/descricao-da-alteracao
 ### Regras
 
 * Utilizar apenas letras minúsculas;
-<<<<<<< HEAD
 * Separar palavras utilizando hífen (`-`);
 * Utilizar nomes curtos e descritivos;
 * Cada branch deve possuir um objetivo específico;
@@ -43,13 +40,11 @@ tipo/descricao-da-alteracao
 | `ui/`       | Alterações relacionadas à interface               | `ui/tela-login`                |
 | `database/` | Alterações no banco de dados                      | `database/tabela-ferramentas`  |
 
-### Exemplos para o ToolRent
-=======
+### Exemplos para o EventFy
 
 ```text
 feature/cadastro-usuario
 feature/login-usuario
-<<<<<<< HEAD
 feature/cadastro-ferramenta
 feature/editar-ferramenta
 feature/listar-ferramentas
@@ -64,13 +59,11 @@ feature/painel-usuario
 fix/erro-login
 fix/validacao-cadastro
 fix/erro-reserva
-=======
 
 docs/readme
 docs/contributing
 
 test/testes-login
-<<<<<<< HEAD
 test/testes-cadastro-ferramenta
 test/testes-aluguel
 
@@ -87,12 +80,10 @@ ui/tela-detalhes-ferramenta
 database/criar-tabela-usuarios
 database/criar-tabela-ferramentas
 database/criar-tabela-alugueis
-=======
 ```
 
 ---
 
-<<<<<<< HEAD
 ## 💬 Convenção para Commits
 
 As mensagens de commit devem ser claras e objetivas, descrevendo a alteração realizada.
@@ -167,11 +158,10 @@ Implementação da funcionalidade de cadastro de ferramentas disponíveis para a
 - Adição dos campos de nome, descrição e valor por dia;
 - Implementação da validação dos campos obrigatórios;
 - Integração inicial com a API.
-=======
+```
 
 ---
 
-<<<<<<< HEAD
 ## 👀 Revisão de Código
 
 Todo Pull Request deverá ser revisado por pelo menos outro integrante da equipe antes de ser integrado à branch `main`.
@@ -241,5 +231,3 @@ git push origin feature/nome-da-funcionalidade
 8. Solicitar a revisão de outro integrante da equipe.
 
 9. Após a aprovação, realizar a integração da alteração à branch `main`.
-=======
-
